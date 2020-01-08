@@ -1,0 +1,16 @@
+{
+  "name": "calculator_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d stage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://GodfreySam.github.io/calculator_app",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
