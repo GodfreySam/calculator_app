@@ -12,6 +12,6 @@
   "homepage": "https://GodfreySam.github.io/calculator_app",
   "dependencies": {
     "gh-pages": "^2.2.0",
-    "mathjs": "^7.3.0"
+    "mathjs": "^7.5.1"
   }
 }
